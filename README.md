@@ -1,4 +1,4 @@
-# **AbresStore – MERN E-Commerce Website (2022 Version)**  
+# **MERN E-Commerce Website **  
 
 ## **Overview**  
 
@@ -23,5 +23,4 @@ AbresStore is a full-stack **e-commerce website** built using the **MERN stack (
 
 1. **Clone the Repository:**  
    ```bash
-   git clone https://github.com/abressiddique/AbresStore-Merns.git
-   cd AbresStore-Merns
+  [(https://github.com/Moni-188/E-commerce-websitee.git)]
