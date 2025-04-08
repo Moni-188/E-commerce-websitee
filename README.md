@@ -23,4 +23,4 @@ AbresStore is a full-stack **e-commerce website** built using the **MERN stack (
 
 1. **Clone the Repository:**  
    ```bash
-  [(https://github.com/Moni-188/E-commerce-websitee.git)]
+  [https://github.com/Moni-188/E-commerce-websitee.git]
